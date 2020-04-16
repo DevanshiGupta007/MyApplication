@@ -1,34 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="vertical"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="@android:color/white">
-
-    <ImageView
-        android:id="@+id/place_icon"
-        android:layout_width="64dp"
-        android:layout_height="64dp"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginBottom="8dp"
-        android:layout_marginLeft="16dp"
-        android:layout_marginRight="16dp"
-        android:layout_marginTop="8dp"
-        android:background="@drawable/place_icon_background"
-        android:contentDescription="@string/place_icon"
-        android:padding="8dp"
-        android:scaleType="centerCrop"/>
-
-    <TextView
-        android:id="@+id/place_text_view"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center_horizontal"
-        android:textColor="@color/color_primary_text"
-        android:textSize="16sp"
-        android:paddingLeft="2dp"
-        android:paddingRight="2dp"
-        tools:text="Google Office"/>
-
-</LinearLayout>
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad7d9f01e0c7d6fe6309d290c6b74bd10a21bb93ff8363aa100d2090fe16f26c
+size 1286

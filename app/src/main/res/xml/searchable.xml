@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<searchable
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:hint="@string/search_hint"
-    android:label="@string/app_name"/>
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd1ec17cdf52298b8691527f015c263d38a9f37b44c14d5b36d62cf34b66d013
+size 195

@@ -1,26 +1,3 @@
-package com.devanshigupta.newtry;
-
-import android.content.Context;
-import android.support.test.InstrumentationRegistry;
-import android.support.test.runner.AndroidJUnit4;
-
-import org.junit.Test;
-import org.junit.runner.RunWith;
-
-import static org.junit.Assert.*;
-
-/**
- * Instrumentation test, which will execute on an Android device.
- *
- * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
- */
-@RunWith(AndroidJUnit4.class)
-public class ExampleInstrumentedTest {
-    @Test
-    public void useAppContext() throws Exception {
-        // Context of the app under test.
-        Context appContext = InstrumentationRegistry.getTargetContext();
-
-        assertEquals("com.devanshigupta.newtry", appContext.getPackageName());
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca8f76afc9d5b104de6d32c35f7f9b99d1a2c81af88895a1badaf4bdf73aa30e
+size 778

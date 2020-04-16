@@ -1,8 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <dimen name="fab_margin">16dp</dimen>
-    <dimen name="avatar_height">48dp</dimen>
-    <dimen name="avatar_width">48dp</dimen>
-
-</resources>
+version https://git-lfs.github.com/spec/v1
+oid sha256:88e074cedc9f8829dd95822de9fb14b1be39194afd1cb809bea98b3fdfbf6ffb
+size 203
